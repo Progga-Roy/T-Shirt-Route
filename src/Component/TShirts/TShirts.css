@@ -1,0 +1,21 @@
+.shirt{
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+.shirt img{
+    width: 250px;
+    height: 300px;
+   /* margin: 0px auto; */
+   border-radius: 8px;
+}
+.buy-btn{
+    padding: 15px;
+    background-color: rgb(220, 228, 235);
+    border-radius: 8px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px gray;
+}
